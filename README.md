@@ -1,4 +1,4 @@
-##OTA Firmware Update for Horn Project
+## OTA Firmware Update for Horn Project
 
 [![github release version](https://img.shields.io/github/v/release/nhn/tui.editor.svg?include_prereleases)](https://github.com/nhn/tui.editor/releases/latest)
 
