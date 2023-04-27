@@ -1,7 +1,5 @@
 <h1 align="center"> OTA Firmware Update for Horn Project </h1> <br>
 
-## OTA Firmware Update for Horn Project
-
 [![github release version](https://img.shields.io/github/v/release/nhn/tui.editor.svg?include_prereleases)](https://github.com/nhn/tui.editor/releases/latest)
 
 ## 🚩 Attention
