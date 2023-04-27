@@ -13,6 +13,3 @@
 ## 🚀 Used By
 
 * [Vertical Innovations Limited](https://www.vertical-innovations.com/)
-
-## 📜 License
-
